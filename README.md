@@ -15,4 +15,5 @@
 
 <h1>Credits</h1>
 Site template by <a href="https://html5up.net/">HTML5 Up</a>
+<br>
 Fonts by <a href="https://fontawesome.com/">Font Awesome</a>
