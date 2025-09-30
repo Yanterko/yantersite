@@ -163,8 +163,8 @@ input, select, textarea {
 	/* Set your background with this */
 
 		background: #000000 url("images/bg.jpg") center center;
-		width: 100%;
-		height: 100%;
+		width: 150%;
+		height: 150%;
 		background-repeat: no-repeat;
 		opacity: 1;
 		position: fixed;
@@ -370,7 +370,7 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			font-size: 5em;
+			font-size: 6em;
 			font-weight: 900;
 			letter-spacing: 0em;
 			line-height: 1em;
@@ -527,7 +527,7 @@ input, select, textarea {
 	/* Header */
 
 		#header h1 {
-			font-size: 5em;
+			font-size: 4.3em;
 		}
 
 		#header h2 {
@@ -567,7 +567,7 @@ input, select, textarea {
 /* Header */
 
 	#header h1 {
-		font-size: 4em;
+		font-size: 3.5em;
 	}
 
 	#header h2 {
