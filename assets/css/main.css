@@ -80,6 +80,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		overflow: hidden;  /* no scrolling bg >:( */
 	}
 
 	*, *:before, *:after {
@@ -87,8 +88,9 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
-		overflow: hidden;
+        background: #000000 url("images/bg.jpg") no-repeat center center fixed;
+		width:100%;
+        height:110vh;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -159,23 +161,22 @@ input, select, textarea {
 			-webkit-font-smoothing: antialiased;
 		}
 
-	#bg {
-	/* Set your background with this */
 
-	  content:"";
-      position:fixed;
-      top:0;
-      height:100vh;
-      left:0;
-      right:0;
-      z-index:-1;
-      background: url("images/bg.jpg") center center;
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-	  background-attachment: scroll;
-	}
+	/* apple's webkit quirks are actually going to drive me insane */	
+	/* #bg {
+
+		background: #000000 url("images/bg.jpg") center center;
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+		opacity: 1;
+		position: fixed;
+		margin: auto;
+	} */
 
 /* Main */
 
