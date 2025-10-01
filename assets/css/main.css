@@ -91,6 +91,7 @@ input, select, textarea {
         background: #000000 url("images/bg.jpg") no-repeat center center fixed;
 		background-size: cover;
         height:110vh;
+		overflow: hidden;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
