@@ -169,6 +169,7 @@ input, select, textarea {
 		object-fit: cover;
 		opacity: 1;
 		position: fixed;
+		margin: auto;
 	}
 
 	#bg {
