@@ -13,7 +13,10 @@
   </ul>
 </div>
 
+<h1>TODO</h1>
+- randomized page background perhaps??
+
 <h1>Credits</h1>
-Site template by <a href="https://html5up.net/">HTML5 Up</a>
+Site templates: <a href="https://html5up.net/">HTML5 Up</a>, <a href="https://github.com/kevquirk/simple.css">simple.css by Kev Quirk</a>
 <br>
 Fonts by <a href="https://fontawesome.com/">Font Awesome</a>
