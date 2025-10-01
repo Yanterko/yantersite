@@ -163,16 +163,12 @@ input, select, textarea {
 	/* Set your background with this */
 
 		background: #000000 url("images/bg.jpg") center center;
-		width: 150%;
-		height: 150%;
+		width: 110%;
+		height: 110%;
 		background-repeat: no-repeat;
+		object-fit: cover;
 		opacity: 1;
 		position: fixed;
-
-		/* PLEASE FIX LATER!!!*/
-		animation: bg ease 1.5s;
-		animation-iteration-count: 1;
-		animation-fill-mode: forwards;
 	}
 
 	#bg {
