@@ -89,7 +89,7 @@ input, select, textarea {
 
 	body {
         background: #000000 url("images/bg.jpg") no-repeat center center fixed;
-		width:100%;
+		background-size: cover;
         height:110vh;
 	}
 
