@@ -1,6 +1,7 @@
 /* @import url("fontawesome-all.min.css"); */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
   
 /*
 	Aerial by HTML5 UP
@@ -374,7 +375,7 @@ input, select, textarea {
 			letter-spacing: 0em;
 			line-height: 1em;
 			margin-bottom: -0.1em;
-			font-family: 'Source Sans 3';
+			font-family: 'Inter';
 			font-weight: 900;
 		}
 
@@ -384,7 +385,7 @@ input, select, textarea {
 			letter-spacing: 0em;
 			line-height: 1em;
 			margin-bottom: -0.1em;
-			font-family: 'Source Sans 3';
+			font-family: 'Inter';
 			font-weight: 900;
 		}
 
