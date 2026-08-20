@@ -6,7 +6,7 @@
     <br>
     My personal website with my socials and other cool stuff that I like to keep there.
     <br>
-    <h3><a href="https://yanterko.k.vu">https://yanterko.k.vu</a></h3>
+    <h3><a href="https://yanterko.k.vu">https://yanterko.me</a></h3>
     <br>
     </summary>
     
